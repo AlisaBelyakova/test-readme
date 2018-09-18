@@ -12,7 +12,7 @@ _This application is currently under reconstruction for performance optimization
 - `npm start` 
 - find the app on http://localhost:8080
 
-## C. Read in details
+## C. Read in details  ⤵ 
 LingoLand is a web based Virtual Reality app that provides a single and multi-user immersive learning experience. Built with A-Frame and Three.js, LingoLand features real time audio communication to interact with other users, speech recognition to interact with bots, and speech synthesis to interact with objects. To ensure a customized user experience the team used Dialogflow, an Artificial Intelligence API, to train bots to engage in various scenarios and simulate natural language conversations. Come try LingoLand and see for yourself!
 
 
