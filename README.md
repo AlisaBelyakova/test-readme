@@ -2,7 +2,7 @@
 
 🌍  http://lingo-land.herokuapp.com/
 
-_This application is currently under reconstruction for performance optimization, but you are welcomed to download our open-source materials and play around. _ 
+_This application is currently under reconstruction for performance optimization, but you are welcomed to download our open-source materials and play around._ 
 
 - `git clone` 
 - `npm install` 
