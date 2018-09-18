@@ -36,10 +36,4 @@ Our application is designed to help us learn in a new immersive way. We created 
 
 ![the team](https://s3.amazonaws.com/lingo-land-alisa/readme-pics/Snip20180917_175.png) 
 
-Alisa Belyakova [@ LinkedIn](https://www.linkedin.com/in/alisabelyakova/) | [@ GitHub](https://github.com/AlisaBelyakova) 
-
-Jane Costa [@ LinkedIn](https://www.linkedin.com/in/jane-costa/) | [@ GitHub](https://github.com/orgs/JAAMies/people/yberdysh) 
-
-Mahia Mutushy [@ LinkedIn](https://www.linkedin.com/in/mahia-mutushy/) | [@ GitHub](https://github.com/orgs/JAAMies/people/Mahiyaa) 
-
-Alla Yakubova [@ LinkedIn](https://www.linkedin.com/in/alla-yakubova/) | [@ GitHub](https://github.com/orgs/JAAMies/people/yakubova92)
+[Jane Costa @ LinkedIn](https://www.linkedin.com/in/jane-costa/) 🌍 [Alla Yakubova @ LinkedIn](https://www.linkedin.com/in/alla-yakubova/)  🌍  [Mahia Mutushy @ LinkedIn](https://www.linkedin.com/in/mahia-mutushy/) 🌍  [Alisa Belyakova @ LinkedIn](https://www.linkedin.com/in/alisabelyakova/) 
