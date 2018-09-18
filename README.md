@@ -1,3 +1,19 @@
+# Learn language and meet friends @ Lingo Land
+
+🌍  http://lingo-land.herokuapp.com/
+
+_This application is currently under reconstruction for performance optimization, but you are welcomed to download our open-source materials and play around._ 
+
+- `git clone` 
+- `npm install` 
+- `npm start` 
+- find the app on http://localhost:8080
+
+LingoLand is a web based Virtual Reality app that provides a single and multi-user immersive learning experience. Built with A-Frame and Three.js, LingoLand features real time audio communication to interact with other users, speech recognition to interact with bots, and speech synthesis to interact with objects. To ensure a customized user experience the team used Dialogflow, an Artificial Intelligence API, to train bots to engage in various scenarios and simulate natural language conversations. Come try LingoLand and see for yourself!
+
+
+
+
 ![home page stereo](https://s3.amazonaws.com/lingo-land-alisa/readme-pics/Snip20180917_153_1_2.png) ![home page 2d](https://s3.amazonaws.com/lingo-land-alisa/readme-pics/Snip20180917_154_1_2.png) 
 
 ####
@@ -36,4 +52,4 @@ Our application is designed to help us learn in a new immersive way. We created 
 
 ![the team](https://s3.amazonaws.com/lingo-land-alisa/readme-pics/Snip20180917_175.png) 
 
-[Jane Costa @ LinkedIn](https://www.linkedin.com/in/jane-costa/) 🌍 [Alla Yakubova @ LinkedIn](https://www.linkedin.com/in/alla-yakubova/)  🌍  [Mahia Mutushy @ LinkedIn](https://www.linkedin.com/in/mahia-mutushy/) 🌍  [Alisa Belyakova @ LinkedIn](https://www.linkedin.com/in/alisabelyakova/) 
+ 🌍  [Jane Costa @ LinkedIn](https://www.linkedin.com/in/jane-costa/) 🌍 [Alla Yakubova @ LinkedIn](https://www.linkedin.com/in/alla-yakubova/)  🌍  [Mahia Mutushy @ LinkedIn](https://www.linkedin.com/in/mahia-mutushy/) 🌍  [Alisa Belyakova @ LinkedIn](https://www.linkedin.com/in/alisabelyakova/) 
